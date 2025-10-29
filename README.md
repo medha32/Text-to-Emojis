@@ -23,18 +23,22 @@ Output: i ❤️ 🍕 😊
 
 # 📂 Project Structure
 📁 Text-To-Emoji/
-
  ├── 🔗 Text_to_Emoji_Colab.ipynb
- 
  ├── 📄 README.md
 
 
 # 🎥 Demo Output
+
 Input:  I am happy with pizza
+
 Output: i am 😊 with 🍕 😊
 
 # 📚 Technologies Used
+
 Language:	Python
+
 NLP:	NLTK, WordNet
+
 Transformer Model:	HuggingFace 🤗
+
 ML Framework:	PyTorch**
