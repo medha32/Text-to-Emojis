@@ -1,4 +1,4 @@
-🧠 Text-to-Emoji Converter
+**🧠 Text-to-Emoji Converter
 Convert normal text into emoji-rich messages using Natural Language Processing (NLP) and AI emotion detection 🤖✨
 
 Example
@@ -35,4 +35,4 @@ Output: i am 😊 with 🍕 😊
 Language:	Python
 NLP:	NLTK, WordNet
 Transformer Model:	HuggingFace 🤗
-ML Framework:	PyTorch
+ML Framework:	PyTorch**
