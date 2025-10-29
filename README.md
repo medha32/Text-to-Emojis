@@ -2,28 +2,41 @@
 Convert normal text into emoji-rich messages using Natural Language Processing (NLP) and AI emotion detection 🤖✨
 
 Example
+
 Input: I love pizza
+
 Output: i ❤️ 🍕 😊
 
 
 # 🚀 Features
 
 ✅ Converts words into emojis (dictionary-based)
+
 ✅ Understands synonyms using NLTK WordNet
+
 ✅ Detects emotion in text using a Transformer model
+
 ✅ Combines rule-based & AI-based emoji prediction
 
 
 # 💡 How It Works
+
 1️⃣ Clean text & tokenize	
+
 2️⃣ Match words to emoji dictionary	
+
 3️⃣ Expand vocabulary using WordNet synonyms	
+
 4️⃣ Predict emotion using HuggingFace model	
+
 5️⃣ Append emotion-based emoji to output
 
 # 📂 Project Structure
+
 📁 Text-To-Emoji/
+
  ├── 🔗 Text_to_Emoji_Colab.ipynb
+ 
  ├── 📄 README.md
 
 
