@@ -23,6 +23,7 @@ Output: i ❤️ 🍕 😊
 
 # 📂 Project Structure
 📁 Text-To-Emoji/
+
  ├── 🔗 Text_to_Emoji_Colab.ipynb
  
  ├── 📄 README.md
