@@ -22,7 +22,7 @@ Output: i ❤️ 🍕 😊
 5️⃣ Append emotion-based emoji to output
 
 # 📂 Project Structure
-# 📁 Text-To-Emoji/
+📁 Text-To-Emoji/
  ├── 🔗 Text_to_Emoji_Colab.ipynb
  ├── 📄 README.md
 
